@@ -8,7 +8,10 @@ Node.js
 
 ## Setup
 ```
-Provide endpoint and API key inside .env
+Add .env file in the main directory with:
+API_KEY=""
+API_ENDPOINT=""   / at the end
+
 ```
 
 ## Installation
